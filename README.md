@@ -1,0 +1,2 @@
+This calculator is written entirely in C++.
+ This is the first version with a minimal set of functions, and there is also a bug - if you place a letter instead of the first character, it will cause an error and an infinite loop.
